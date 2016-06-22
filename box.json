@@ -1,10 +1,10 @@
 {
-	"name": "Box starter",
-	"description": "An optional & minimal starter kit for krdsbox components",
-	"author": "Moorthy",
-	"author-email": "moorthy.g@krds.fr",
-	"image": "relative path of 500x500 image ( empty string if no image )",
-	"gif": "relative path of 500x500 animated gif ( empty string if no image )",
-	"tags": "comma, separated, tags",
-	"repo-url": "https://github.com/krdsbox/box-starter"
+	"name": "Crazy Hearts",
+	"description": "A new makeover for the 'favourites' heart button",
+	"author": "Rampraveen",
+	"author-email": "ram.praveen@krds.fr",
+	"image": "",
+	"gif": "",
+	"tags": "favourite, vote",
+	"repo-url": "https://github.com/krdsbox/crazy-hearts"
 }

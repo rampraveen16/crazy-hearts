@@ -3,10 +3,10 @@
   <defs>
     <style>
       .front {
-        fill: rgba(255,255,255,0.4);
+        fill: #03457a;
       }
 		.back {
-			fill: rgba(255,255,255,0.2);
+			fill: rgba(6, 80, 127, 0.84);
 		}
     </style>
   </defs>
